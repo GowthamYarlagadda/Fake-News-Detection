@@ -21,7 +21,7 @@ This project was learnt in Coursera and is for anyone with foundation in program
 - Model deployment
 
 
-#### Some important points
+#### FAQs
  -->What is an id? Words existing between "d/" and "/view" of google drive link of the file.
 
 -->We can see that no of fake news and true news varies a bit much. We need not to consider any SMOTE analysis (replicating some values so that they become equal). Because in this project,It is better to have model that can detect more Fake news.
