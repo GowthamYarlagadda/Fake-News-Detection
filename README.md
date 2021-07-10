@@ -1,4 +1,6 @@
 # Fake-News-Detection
+In this project, Using libraries from scikit-learn API, the training of DataFrames, which were retrieved by using pandas and pydrive libraries, was accomplished.
+
 This project was learnt in Coursera and is for anyone with foundation in programming and machine learning who wants to develop Data science and Machine learning projects but having limited resources on their computer and limited time.
 
 ## Objective
@@ -40,8 +42,8 @@ This project was learnt in Coursera and is for anyone with foundation in program
 | Files | sources |
 | ------ | ------ |
 | Fake and real news dataset | [https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset][PlDb] |
-| Pydrive Documentation | [https://pythonhosted.org/PyDrive/][PlGd] |
-|Drive REST API| https://colab.research.google.com/notebooks/io.ipynb
+| Pydrive Documentation | [https://pythonhosted.org/PyDrive/][PlGh] |
+|Drive REST API| [https://colab.research.google.com/notebooks/io.ipynb][PlGd] |
 
 
 
